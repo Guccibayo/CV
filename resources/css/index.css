@@ -1,0 +1,48 @@
+h2 {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: #f4f3f3;
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
+#font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+    background-color: #ffffff;
+    height: 520px;
+    width: 70%;
+    position: relative;
+    top: 60px;
+}
+.footer-link2 {
+height: 25px;
+width: 25px;
+}
+.first-line {
+    position: relative;
+    right:250px;
+    top: 35px;
+}
+.second-line {
+    position: relative;
+    bottom: 350px;
+    left: 200px;
+}
+.remember {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+}
+.login {
+    color: white;
+    background-color: blue;
+}
+.circular {
+    border-radius: 100%;
+}
